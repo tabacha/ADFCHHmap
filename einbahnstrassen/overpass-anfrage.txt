@@ -1,0 +1,10 @@
+/* einfach auf overpass-turbo.eu eingeben */
+[out:json][timeout:100];
+// fetch area “Hamburg” to search in
+{{geocodeArea:Hamburg}}->.searchArea;
+// gather results
+(
+  way["highway"]["oneway"]["highway"!="motorway"]["highway"!="proposed"]["highway"!="service"]["highway"!="motorway_link"]["highway"!="cycleway"]["oneway"!="no"]["oneway:bicycle"!="no"](area.searchArea);
+);
+// print results
+out body center;
