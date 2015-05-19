@@ -52,8 +52,8 @@ Bachstraße (osm) (adfc)
 Badestraße (osm) (adfc)
 Baererstraße (osm)
 Bahrenfelder Straße (osm) (adfc)
-Bahrstrasse (adfc)
-Bansenstrasse (adfc)
+Bahrstraße (adfc)
+Bansenstraße (adfc)
 Bartelsstraße (osm)
 Bartholomäusstraße (osm)
 Baurs Park (adfc)
@@ -121,9 +121,9 @@ Böckmannstraß (adfc)
 Böckmannstraße (osm)
 Böhmkenstraße (osm) (adfc)
 Böttcherkamp (osm)
+Böttcherkoppel (osm)
 Böttgerstraße (osm) (adfc)
-Bülaustrasse (adfc)
-Bülaustraße (osm)
+Bülaustraße (osm) (adfc)
 Büschelstraße (adfc)
 Büschstraße (osm)
 Carlssonweg (osm)
@@ -143,7 +143,7 @@ César-Klein-Ring (osm)
 Danziger Straße (osm) (adfc)
 De-Voß-Straße (adfc)
 Deichstraße (osm)
-Denickestr. (adfc)
+Denickestraße (adfc)
 Desenißstraße (osm) (adfc)
 Detlev-Bremer-Straße (osm) (adfc)
 Detmerstraße (osm)
@@ -181,7 +181,7 @@ Elsässer Straße (adfc)
 Erik-Blumfeld-Platz (adfc)
 Erikastraße (osm)
 Erlenkamp (osm)
-Ernst-Eger-Str. (adfc)
+Ernst-Eger-Staße (adfc)
 Erzbergerstraße (osm)
 Eschelsweg (adfc)
 Eupener Straße (osm)
@@ -348,10 +348,10 @@ Johnsallee (osm)
 Jollassestieg (osm) (adfc)
 Joseph-Norden-Weg (osm)
 Julienstraße (osm) (adfc)
-Julius-Ertel-Str. (adfc)
-Julius-Ertel-Straße (osm)
+Julius-Ertel-Straße (osm) (adfc)
 Julius-Ludowieg-Straße (osm) (adfc)
 Juliusstraße (osm)
+Justus-Brinckmann-Straße (osm)
 Justus-Strandes-Weg (osm)
 Kalischerstraße (osm)
 Kampstraße (osm) (adfc)
@@ -364,7 +364,7 @@ Kauershofweg (adfc)
 Kaulbachstraße (osm)
 Kegelhofstraße (osm) (adfc)
 Keltenweg (osm)
-Kerschensteiner Str. (adfc)
+Kerschensteiner Straße (adfc)
 Ketteler Weg (adfc)
 Kettelerweg (osm)
 Kielkamp (osm)
@@ -430,8 +430,7 @@ Maria-Louisen-Steig (adfc)
 Maria-Louisen-Stieg (osm)
 Marianne-Wolff-Weg (osm)
 Marienstraße (osm) (adfc)
-Marienthaler Stra0e (adfc)
-Marienthaler Straße (osm)
+Marienthaler Straße (osm) (adfc)
 Marktstraße (osm)
 Marktstraße (weitgehend) (adfc)
 Markusstraße (osm)
@@ -569,7 +568,7 @@ Rütersbarg (osm)
 Sandbek (osm) (adfc)
 Sandkampstieg (osm)
 Sandkampweg (osm)
-Sanitasstr.  (adfc)
+Sanitasstraße  (adfc)
 Schachblumenweg (osm) (adfc)
 Schadesweg (osm) (adfc)
 Schaudinnstwiete (adfc)
@@ -612,11 +611,11 @@ Siemssenstraße (osm)
 Sievekingsallee (osm)
 Silcherstraße (osm) (adfc)
 Singelmannsweg (osm)
-Slomanstr. (adfc)
-Slomanstraße (osm)
+Slomanstraße (osm) (adfc)
 Smidtstraße (osm) (adfc)
 Soester Straße (osm) (adfc)
 Soltauer Ring (adfc)
+Soltaustraße (osm)
 Sonnentauweg  (adfc)
 Spandauer Weg (osm)
 Spatzenwinkel (osm)
@@ -702,7 +701,7 @@ Walther-Kunze-Straße (Verbot der   Einfahrt/Spielstr.) (adfc)
 Warburgstraße (osm)
 Washingtonring (adfc)
 Wasmannstraße (osm)
-Wattenbergstrasse (adfc)
+Wattenbergstraße (adfc)
 Watzenweg (osm)
 Weckmannweg (osm)
 Wedeler Landstraße (osm) (adfc)
@@ -722,8 +721,7 @@ Wienbargstraße (adfc)
 Wiesenstraße (osm) (adfc)
 Wikingstraße (osm) (adfc)
 Wilhelm-Busch-Weg (osm)
-Wilhelmsburger Str (adfc)
-Wilhelmsburger Straße (osm)
+Wilhelmsburger Straße (osm) (adfc)
 Wilhelmstraße (osm) (adfc)
 Winterstraße (osm)
 Winzeldorfer Weg (osm)
@@ -786,8 +784,8 @@ Auguste-Bauer-Straße (adfc)
 Auricher Damm (osm)
 Avenariusstraße (adfc)
 Baererstraße (osm)
-Bahrstrasse (adfc)
-Bansenstrasse (adfc)
+Bahrstraße (adfc)
+Bansenstraße (adfc)
 Bartelsstraße (osm)
 Bartholomäusstraße (osm)
 Baurs Park (adfc)
@@ -841,8 +839,7 @@ Bäckerbreitergang (osm)
 Böckmannstraß (adfc)
 Böckmannstraße (osm)
 Böttcherkamp (osm)
-Bülaustrasse (adfc)
-Bülaustraße (osm)
+Böttcherkoppel (osm)
 Büschelstraße (adfc)
 Büschstraße (osm)
 Carlssonweg (osm)
@@ -855,7 +852,7 @@ Curschmannstraße (adfc)
 César-Klein-Ring (osm)
 De-Voß-Straße (adfc)
 Deichstraße (osm)
-Denickestr. (adfc)
+Denickestraße (adfc)
 Detmerstraße (osm)
 Diekwisch (osm)
 Dietrich-Schreyge-Straße (osm)
@@ -878,7 +875,7 @@ Elsässer Straße (adfc)
 Erik-Blumfeld-Platz (adfc)
 Erikastraße (osm)
 Erlenkamp (osm)
-Ernst-Eger-Str. (adfc)
+Ernst-Eger-Staße (adfc)
 Erzbergerstraße (osm)
 Eschelsweg (adfc)
 Eupener Straße (osm)
@@ -988,9 +985,8 @@ Jagdhorn (osm)
 Jeverländer Weg (osm)
 Johnsallee (osm)
 Joseph-Norden-Weg (osm)
-Julius-Ertel-Str. (adfc)
-Julius-Ertel-Straße (osm)
 Juliusstraße (osm)
+Justus-Brinckmann-Straße (osm)
 Justus-Strandes-Weg (osm)
 Kalischerstraße (osm)
 Karl-Theodor-Straße (osm)
@@ -1001,7 +997,7 @@ Kastanienallee (adfc)
 Kauershofweg (adfc)
 Kaulbachstraße (osm)
 Keltenweg (osm)
-Kerschensteiner Str. (adfc)
+Kerschensteiner Straße (adfc)
 Ketteler Weg (adfc)
 Kettelerweg (osm)
 Kielkamp (osm)
@@ -1047,8 +1043,6 @@ Marckmannstraße (adfc)
 Maria-Louisen-Steig (adfc)
 Maria-Louisen-Stieg (osm)
 Marianne-Wolff-Weg (osm)
-Marienthaler Stra0e (adfc)
-Marienthaler Straße (osm)
 Marktstraße (osm)
 Marktstraße (weitgehend) (adfc)
 Markusstraße (osm)
@@ -1148,7 +1142,7 @@ Röweland (osm)
 Rütersbarg (osm)
 Sandkampstieg (osm)
 Sandkampweg (osm)
-Sanitasstr.  (adfc)
+Sanitasstraße  (adfc)
 Schaudinnstwiete (adfc)
 Scheffelstraße (osm)
 Schellerdamm (adfc)
@@ -1177,9 +1171,8 @@ Sieldeich (osm)
 Siemssenstraße (osm)
 Sievekingsallee (osm)
 Singelmannsweg (osm)
-Slomanstr. (adfc)
-Slomanstraße (osm)
 Soltauer Ring (adfc)
+Soltaustraße (osm)
 Sonnentauweg  (adfc)
 Spandauer Weg (osm)
 Spatzenwinkel (osm)
@@ -1244,7 +1237,7 @@ Walther-Kunze-Straße (Verbot der   Einfahrt/Spielstr.) (adfc)
 Warburgstraße (osm)
 Washingtonring (adfc)
 Wasmannstraße (osm)
-Wattenbergstrasse (adfc)
+Wattenbergstraße (adfc)
 Watzenweg (osm)
 Weckmannweg (osm)
 Weimarer Straße (adfc)
@@ -1259,8 +1252,6 @@ Wieddüp (osm)
 Wiedehopfstieg (adfc)
 Wienbargstraße (adfc)
 Wilhelm-Busch-Weg (osm)
-Wilhelmsburger Str (adfc)
-Wilhelmsburger Straße (osm)
 Winterstraße (osm)
 Winzeldorfer Weg (osm)
 Wittigstieg (osm)
@@ -1310,6 +1301,7 @@ Burggarten
 Böckelweg
 Böhmkenstraße
 Böttgerstraße
+Bülaustraße
 Chapeaurougeweg
 Chateauneufstraße
 Chemnitzstraße
@@ -1389,6 +1381,7 @@ Jean-Paul-Weg
 Jes-Juhl-Weg
 Jollassestieg
 Julienstraße
+Julius-Ertel-Straße
 Julius-Ludowieg-Straße
 Kampstraße
 Kegelhofstraße
@@ -1412,6 +1405,7 @@ Lohhof
 Lothringer Straße
 Lüdemannstraße
 Marienstraße
+Marienthaler Straße
 Martin-Haller-Ring
 Martin-Leuschel-Ring
 Maybachstraße
@@ -1464,6 +1458,7 @@ Seestraße
 Seestücken
 Selliusstraße
 Silcherstraße
+Slomanstraße
 Smidtstraße
 Soester Straße
 Spengelweg
@@ -1492,6 +1487,7 @@ Weißenburger Straße
 Wendloher Weg
 Wiesenstraße
 Wikingstraße
+Wilhelmsburger Straße
 Wilhelmstraße
 Wittenkamp
 Wohlwillstraße
@@ -1556,7 +1552,7 @@ Butjadinger Weg
 Bäckerbreitergang
 Böckmannstraße
 Böttcherkamp
-Bülaustraße
+Böttcherkoppel
 Büschstraße
 Carlssonweg
 Christian-Frederik-Hansen-Straße
@@ -1644,8 +1640,8 @@ Jagdhorn
 Jeverländer Weg
 Johnsallee
 Joseph-Norden-Weg
-Julius-Ertel-Straße
 Juliusstraße
+Justus-Brinckmann-Straße
 Justus-Strandes-Weg
 Kalischerstraße
 Karl-Theodor-Straße
@@ -1682,7 +1678,6 @@ Maisredder
 Manteuffelstraße
 Maria-Louisen-Stieg
 Marianne-Wolff-Weg
-Marienthaler Straße
 Marktstraße
 Markusstraße
 Martensweg
@@ -1767,7 +1762,7 @@ Sieldeich
 Siemssenstraße
 Sievekingsallee
 Singelmannsweg
-Slomanstraße
+Soltaustraße
 Spandauer Weg
 Spatzenwinkel
 Sperberkamp
@@ -1817,7 +1812,6 @@ Wesselburer Weg
 Weygandtstraße
 Wieddüp
 Wilhelm-Busch-Weg
-Wilhelmsburger Straße
 Winterstraße
 Winzeldorfer Weg
 Wittigstieg
@@ -1843,8 +1837,8 @@ Anzengruberstraße
 ApenraderStraße
 Auguste-Bauer-Straße
 Avenariusstraße
-Bahrstrasse
-Bansenstrasse
+Bahrstraße
+Bansenstraße
 Baurs Park
 Bauvereinsweg
 Behrkampsweg
@@ -1867,14 +1861,13 @@ Bundsensweg
 Burmesterstraße
 Butenfeld
 Böckmannstraß
-Bülaustrasse
 Büschelstraße
 Carpserweg
 Christian-F-Hansen-Straße
 Cranachstraße
 Curschmannstraße
 De-Voß-Straße
-Denickestr.
+Denickestraße
 Dimpfelweg
 Dobbelersweg
 Drehbahn
@@ -1885,7 +1878,7 @@ Eilbeker Weg
 Eilbektal 
 Elsässer Straße
 Erik-Blumfeld-Platz
-Ernst-Eger-Str.
+Ernst-Eger-Staße
 Eschelsweg
 Eupener Straße 
 Ewaldsweg
@@ -1926,11 +1919,10 @@ In der Schlucht
 Industriestraße
 Innocentiapark
 Insterburger Staße
-Julius-Ertel-Str.
 Karstenstraße
 Kastanienallee
 Kauershofweg
-Kerschensteiner Str.
+Kerschensteiner Straße
 Ketteler Weg
 Kleiner Pulverteich
 Kompeweg
@@ -1947,7 +1939,6 @@ Lünckenweg
 Maimoorweg 
 Marckmannstraße
 Maria-Louisen-Steig
-Marienthaler Stra0e
 Marktstraße (weitgehend)
 Martensweg                                  
 Mettlerkampsweg (Elisabethgehölz - Horner Weg)
@@ -1983,7 +1974,7 @@ Reiherhoopweg
 Richterstraße                               
 Roonstraße
 Rothesoodstraße
-Sanitasstr. 
+Sanitasstraße 
 Schaudinnstwiete
 Schellerdamm
 Schlüterstraße
@@ -1992,7 +1983,6 @@ Schneverdinger Weg
 Schurzallee-Nord 
 Schwenckestraße (teilweise freigegeben)
 Seebeckring
-Slomanstr.
 Soltauer Ring
 Sonnentauweg 
 St. Georgstraße
@@ -2016,7 +2006,7 @@ Waitzstraße (Teilstück frei)
 Walsroder Ring
 Walther-Kunze-Straße (Verbot der   Einfahrt/Spielstr.)
 Washingtonring
-Wattenbergstrasse
+Wattenbergstraße
 Weimarer Straße
 Weizenkamp                                  
 Werfelring 
@@ -2024,7 +2014,6 @@ Wetkesgarten
 Wiebischenkamp
 Wiedehopfstieg
 Wienbargstraße
-Wilhelmsburger Str
 Witts Allee
 Wülpensand
 Würffelstraße
