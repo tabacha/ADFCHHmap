@@ -44,6 +44,9 @@ foreach my $ele (@{$json->{'elements'}}) {
 #print Dumper($str{"wexstraße"});
 open(EINBAHN,"einbahn.csv");
 open(OUT,">data/einbahn-pruef.csv");
+open(MAP,">data/einbahn-map.csv");
+print OUT "name\tzusatz\tpolizei\tstatus\t\tlat\tlon\n";
+print MAP "name\tzusatz\tpolizei\tstatus\t\tlat\tlon\n";
 foreach my $line (<EINBAHN>) {
     my ($name,$pk)=split(/\t/,$line);
     $name=~s/^\s*//;
@@ -57,13 +60,19 @@ foreach my $line (<EINBAHN>) {
         $lat=$str{$lname}[0]{'lat'};
         $lon=$str{$lname}[0]{'lon'};
         print OUT "$name\t\t$pk\tokay\t\t$lat\t$lon\n";
+        print MAP "$name\t\t$pk\tokay\t\t$lat\t$lon\n";
     } else {
         print OUT "$name\t\t$pk\tpruefen\t\t\t\n";
     }
 }
 close(EINBAHN);
+close(OUT);
+close(MAP);
 open(EINBAHN,"frei.csv");
 open(OUT,">data/frei-pruef.csv");
+open(MAP,">data/frei-map.csv");
+print OUT "name\tzustatz\tpolizei\tfreigegeben\tstatus\t\tlat\tlon\n";
+print MAP "name\tzustatz\tpolizei\tfreigegeben\tstatus\t\tlat\tlon\n";
 foreach my $line (<EINBAHN>) {
     my ($name,$pk,$frei)=split(/\t/,$line);
     $name=~s/^\s*//;
@@ -77,9 +86,12 @@ foreach my $line (<EINBAHN>) {
         $lat=$str{$lname}[0]{'lat'};
         $lon=$str{$lname}[0]{'lon'};
         print OUT "$name\t\t$pk\t$frei\tokay\t\t$lat\t$lon\n";
+        print MAP "$name\t\t$pk\t$frei\tokay\t\t$lat\t$lon\n";
     } else {
         print OUT "$name\t\t$pk\t$frei\tpruefen\t\t\t\n";
     }
 }
 close(EINBAHN);
+close(OUT);
+close(MAP);
 #print Dumper($str{'de lange tammer'});

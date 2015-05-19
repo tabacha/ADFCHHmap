@@ -1,10 +1,8 @@
 name	zusatz	polizei	status		lat	lon
 ABC-Straße		PK 14	okay		53.5541438	9.9858638
 Adenauerallee		PK 11	okay		53.5522358	10.0106351
-Admiralitätsstraße		PK 14	pruefen			
 Allensteiner Straße		PK 37	okay		53.5905006	10.0756592
 Alsterterrasse		PK 17	okay		53.5601518	9.9933657
-Alter Teichweg hinter Nr. 141 a-c		PK 37	pruefen			
 Alter Wall		PK 14	okay		53.5498211	9.9893162
 Am Alten Posthaus		PK 37	okay		53.5710498	10.0714745
 Am Alten Zoll		PK 42	okay		53.5402335	10.1028681
@@ -15,11 +13,9 @@ Am Brunnenhof		PK 16	okay		53.5550412	9.9591103
 Am Eiland		PK 26	okay		53.5606466	9.8013038
 Am Elisabethgehölz		PK 41	okay		53.5575384	10.0654976
 Am Gnadenberg		PK 35	okay		53.6372325	10.0353737
-Am Häselberg		PK 23	pruefen			
 Am Hohen Stege		PK 43	okay		53.4852337	10.2086809
 Am Hünenstein		PK 41	okay		53.5624454	10.0583928
 Am Kiekeberg		PK 26	okay		53.562564	9.8066764
-Am Klingenberg (ab Witts Park)		PK 26	pruefen			
 Am Lustberg		PK 34	okay		53.625051	10.0132152
 Am Mühlenfeld		PK 46	okay		53.4445551	9.9838428
 Am Pool		PK 43	okay		53.4862444	10.2117533
@@ -28,7 +24,6 @@ Am Soldatenfriedhof		PK 46	okay		53.4624292	9.9787034
 An der Schleemer Mühle		PK 42	okay		53.5357417	10.1146014
 Angelnstraße		PK 37	okay		53.5787276	10.0622226
 Apenrader Straße		PK 37	okay		53.5849191	10.0623876
-Armgartstr		PK 31	pruefen			
 Arnoldstraße		PK 21	okay		53.5494243	9.9290234
 Astern Straße		PK 37	okay		53.5889587	10.0811765
 Asternstraße		PK 37	okay		53.5889587	10.0811765
@@ -36,7 +31,6 @@ August-Bebel-Straße		PK 43	okay		53.4822472	10.2389048
 Augustenburger Ufer		PK 37	okay		53.5858769	10.0607247
 Bäckerbreitergang		PK 14	okay		53.5538041	9.9819384
 Bahrenfelder Straße		PK 21	okay		53.5598573	9.9276486
-Baron-Voght-Straße (Flottbeker Str. bis Beseler   Str.)		PK 25	pruefen			
 Basselweg		PK 27	okay		53.5872133	9.9321023
 Bauvereinsweg		PK 44	okay		53.5167085	9.985405
 Begonienweg		PK 37	okay		53.5865124	10.082052
@@ -45,22 +39,16 @@ Bei der Rolandsmühle		PK 25	okay		53.5497183	9.9142183
 Bei der Schilleroper		PK 16	okay		53.5579376	9.9617472
 Beim Dorfkrug		PK 47	okay		53.4797119	9.8865641
 Beim Schäferhof		PK 34	okay		53.6431852	10.0149355
-Beim Schlump Nebenfahrb.		PK 17	pruefen			
 Bellevue		PK 33	okay		53.5830759	10.0027327
 Bennigsenstraße		PK 46	okay		53.4608279	9.9761438
 Bergedorfer Heerweg		PK 41	okay		53.53334	10.0537911
 Bergedorfer Schloßstraße		PK 43	okay		53.4882142	10.2136026
-Beseler Platz (Dürerstr. bis Rosenhagenstr.)		PK 25	pruefen			
-Beselerstraße (Müllenhoffweg bis Gr. Glottbeker   Str.)		PK 25	pruefen			
-Bethesdastraße (Hohe Landwehr – Petersenstraße)		PK 41	pruefen			
 Bielfeldtstraße		PK 25	okay		53.5526159	9.9111524
 Billstedter Mühlenweg		PK 42	okay		53.537422	10.1174954
 Bilser Straße		PK 33	okay		53.6052599	10.0017642
 Binsbarg		PK 25	okay		53.5910033	9.9196111
-Blankeneser Bahnhofstraße (Elbchaussee bis   Auguste-Baur-Straße)		PK 26	pruefen			
 Blankeneser Hauptstraße		PK 26	okay		53.5589583	9.8075457
 Bleichenbrücke		PK 14	okay		53.5515421	9.9886316
-Bleicherstraße (südl. Ende)		PK 16	pruefen			
 Bleichertwiete		PK 43	okay		53.4831608	10.2174585
 Blumenau		PK 31	okay		53.5672156	10.035621
 Böhmersweg		PK 17	okay		53.5720052	9.9960674
@@ -71,7 +59,6 @@ Brauerknechtgraben		PK 14	okay		53.545959	9.9770099
 Brauhausstieg		PK 37	okay		53.5722227	10.0628503
 Braunsberger Weg		PK 37	okay		53.5911454	10.072463
 Bredenbekstraße		PK 35	okay		53.69754	10.1277922
-Brennhauskoppel/Vogtshof/Krämerstieg		PK 34	pruefen			
 Brockhausweg		PK 42	okay		53.5364912	10.1260583
 Brüderstraße		PK 14	okay		53.5513282	9.9813596
 Bugenhagenstraße		PK 14	okay		53.5506516	10.0033037
@@ -81,7 +68,6 @@ Chapeaurougeweg		PK 41	okay		53.5589002	10.0630842
 Chateauneufstraße		PK 41	okay		53.5633058	10.0610728
 Chemnitzstraße		PK 21	okay		53.5556	9.9471141
 Christinenstraße		PK 43	okay		53.4978011	10.2054877
-Chrysanderstraße (Mohnhof bis Reinbeker Weg)		PK 43	pruefen			
 Claus-Ferck-Straße		PK 35	okay		53.6500343	10.1632254
 Clemens-Schultz-Straße		PK 16	okay		53.5520487	9.96628
 Cottaweg		PK 42	okay		53.5414289	10.1262709
@@ -96,13 +82,11 @@ Diedenhofer Straße		PK 37	okay		53.583567	10.0656438
 Dorfwinkel		PK 35	okay		53.6490129	10.1663104
 Dormienstraße		PK 26	okay		53.5618038	9.8098176
 Edelweißweg		PK 27	okay		53.6092219	9.8886258
-Eichenlohweg (Freidhofseingang) Verbot für Fahrzeuge   aller Art		PK 36	pruefen			
 Eiffestraße		PK 41	okay		53.5522541	10.0292351
 Eilbeker Weg		PK 31	okay		53.5701249	10.0472317
 Eilenau		PK 31	okay		53.5698901	10.039207
 Eitzensweg		PK 41	okay		53.551796	10.064955
 Elise-Averdieck-Straße		PK 41	okay		53.5571109	10.0369507
-Erik-Blumenfeld-Platz (nordwestlicher Teil)		PK 26	pruefen			
 Erlenkamp		PK 31	okay		53.5677185	10.020652
 Ermlandweg		PK 34	okay		53.6501333	9.9923189
 Ernst-Finder-Weg		PK 43	okay		53.502135	10.1904161
@@ -112,16 +96,11 @@ Ewaldsweg		PK 41	okay		53.5527973	10.0660226
 Eydtkuhnenweg		PK 37	okay		53.5940027	10.0890306
 Fährstraße		PK 44	okay		53.5178066	9.9807153
 Farmsener Landstraße		PK 35	okay		53.6502928	10.16174
-Friedensallee (Barnerstr. bis Bergiusstr.)		PK 21	pruefen			
 Friedrich-Legahn-Straße		PK 26	okay		53.5628713	9.8106644
-Friedrichstraße / Gerhardstraße		PK 15	pruefen			
 Friesenstraße		PK 41	okay		53.543768	10.0291777
 Frobeniusweg		PK 42	okay		53.5374974	10.1093635
 Funhofweg		PK 36	okay		53.6029152	10.0421289
-Gaußstraße (Bahrenfelder Straße - Barnerstraße)		PK 21	pruefen			
 Geesmoor		PK 23	okay		53.6054923	9.9691295
-Gellertstraße (Einfahrt von Sierichstraße)		PK 33	pruefen			
-Geranienweg (Blomkamp - Flurstraße)		PK 26	pruefen			
 Gertrudenkirchhof		PK 14	okay		53.5524548	10.0011331
 Gertrudenstraße		PK 14	okay		53.5534784	9.9988418
 Gilcherweg		PK 35	okay		53.6495837	10.1078676
@@ -134,11 +113,8 @@ Graudenzer Weg		PK 37	okay		53.5887655	10.0692955
 Graumannsweg		PK 31	okay		53.5632245	10.0194369
 Gravensteiner Weg		PK 37	okay		53.5863356	10.0673039
 Greifswalder Straße		PK 11	okay		53.5570845	10.0116347
-Griesstraße (Hammer Steindamm – Caspar-Voght-Str.)		PK 41	pruefen			
-Grindelberg (vor Bezirksamt Eimsb.)		PK 17	pruefen			
 Grootsruhe		PK 41	okay		53.5548708	10.0421489
 Große Bäckerstraße		PK 14	okay		53.5490032	9.9929105
-Große Bleichen (Jungfernstieg-Heuberg)		PK 14	pruefen			
 Große Freiheit		PK 15	okay		53.5506248	9.9575781
 Große Horst		PK 35	okay		53.6284508	10.0604616
 Großer Burstah		PK 14	okay		53.548663	9.9875772
@@ -149,25 +125,19 @@ Grüner Deich		PK 41	okay		53.5433357	10.0321058
 Günselstieg		PK 36	okay		53.6140013	10.0709757
 Güntherstraße		PK 31	okay		53.5636308	10.0329487
 Gustav-Leo-Straße		PK 23	okay		53.5891649	9.9881014
-Gustav-Stille-Weg		PK 43	pruefen			
 Hagenau		PK 31	okay		53.5664437	10.0364306
 Hahntrapp		PK 14	okay		53.5481426	9.9902435
-Hallerstraße (die Ringstraße bei den   Grindelhochhäusern)		PK 17	pruefen			
 Hammer Hof		PK 41	okay		53.556766	10.0620654
-Hammerbrookstraße (Spaldingstraße bis   Kurt-Schumacher-Allee)		PK 11	pruefen			
 Hanhoopsfeld		PK 46	okay		53.4379229	9.9900206
 Harburger Hauptdeich		WSPK 3	okay		53.4730727	9.9862031
-Harnackswisch		PK 27	pruefen			
 Heideknick		PK 35	okay		53.6471016	10.125232
 Heimat		PK 23	okay		53.5999417	9.9453438
 Henriettenweg		PK 23	okay		53.5722466	9.9589391
-<tr style="page-break-before:always" height="13">   Hermann-Löns-Weg		PK 34	pruefen			
 Hermannstraße		PK 14	okay		53.5509272	9.9946772
 Herrengraben		PK 14	okay		53.5495209	9.9839279
 Herzmoortwiete		PK 34	okay		53.667096	10.0249955
 Heuberg		PK 14	okay		53.5525444	9.9874029
 Hoffmann-von-Fallersleben-Straße		PK 43	okay		53.4828056	10.2307445
-Hohe Bleich (Postrstraße – Amalungstraße)		PK 14	pruefen			
 Höltentwiete		PK 34	okay		53.6400134	9.9990252
 Holzdamm		PK 11	okay		53.5558203	10.0053795
 Holzmühlenstraße		PK 37	okay		53.5800594	10.0811665
@@ -176,13 +146,10 @@ Hopfenmarkt		PK 14	okay		53.5477839	9.9895065
 Hopfensack		PK 14	okay		53.5481916	9.9999527
 Hufnertwiete		PK 31	okay		53.5862142	10.0423046
 Hürthweg		PK 34	okay		53.6453201	10.01568
-Ifflandstraße Kuhmühle-Schottweg)		PK 31	pruefen			
 Im Alten Dorfe		PK 35	okay		53.649463	10.1675771
-Im Grünen Grunde (Nebenfahrbahn)		PK 34	pruefen			
 Immanuelstieg		PK 44	okay		53.524369	10.0177882
 Immenhöven		PK 34	okay		53.66123	10.0203223
 Immergrünweg		PK 37	okay		53.5911811	10.0781546
-Isestraße (Eppendorfer Baum - Heilwigstraße)		PK 17	pruefen			
 Jakobikirchhof		PK 14	okay		53.5503342	10.0016886
 Jessenstraße		PK 21	okay		53.551354	9.9469455
 Johannes-Böse-Weg		PK 34	okay		53.654574	10.0088282
@@ -197,17 +164,13 @@ Klausstraße		PK 21	okay		53.5503447	9.9316299
 Kleine Johannisstraße		PK 14	okay		53.5494895	9.9937876
 Kleine Theaterstraße		PK 14	okay		53.5564826	9.9886834
 Kleiner Burstah		PK 14	okay		53.5475732	9.9887526
-Klewerkoppel/Rosenreihe		PK 34	pruefen			
 Klingberg		PK 14	okay		53.5479914	10.0008498
 Knutzenweg		PK 37	okay		53.5700729	10.0637956
 Kobberdiekskoppel		PK 35	okay		53.6799583	10.0812635
 Königsberger Straße		PK 36	okay		53.6233712	10.0847294
 Königshütter Straße		PK 37	okay		53.5843074	10.0689802
 Krayenkamp		PK 14	okay		53.5478001	9.9786956
-Krohnskamp (Dorotheenstr. - Sierichstr.)		PK 33	pruefen			
 Krüsistraße		PK 33	okay		53.5882487	10.0420738
-<td class="xl24" colspan="2" height="13">Kupferhammer (Einfahrt Hohenbuchener Park,   öffentl. Weg neben Gut Hohenbuchen)		
-	pruefen			
 Langenfort		PK 36	okay		53.5998942	10.046943
 Langenrehm		PK 31	okay		53.5810661	10.0461539
 Lastropsweg		PK 23	okay		53.5788252	9.9561323
@@ -218,19 +181,13 @@ Lerchenstraße		PK 16	okay		53.5595561	9.9619874
 Letternkamp		PK 42	okay		53.5377388	10.1220053
 Ligusterweg		PK 26	okay		53.5549631	9.8515848
 Lilienstraße		PK 14	okay		53.5527432	10.002137
-Lindenstraße (Steindamm - Brennerstraße)		PK 11	pruefen			
 Litzowstieg		PK 37	okay		53.5737062	10.0696571
 Lobuschstraße		PK 21	okay		53.5502968	9.9347764
 Lohhof		PK 41	okay		53.5584019	10.0530925
 Lohkampstraße		PK 27	okay		53.6153718	9.8786509
-Louise-Schröder-Straße		PK 21	pruefen			
 Ludwigstraße		PK 16	okay		53.5599194	9.9657738
 Maikstraße		PK 43	okay		53.4983938	10.2046509
 Malmedyer Straße		PK 37	okay		53.5808255	10.0655269
-Marktstraße (Glashüttenstr. bis Karolinenstr.)		PK 16	pruefen			
-Mencksallee		PK 31	pruefen			
-Mendelssohnstraße (Friedensallee - Bahrenfelder   Kirchenweg)		PK 25	pruefen			
-Mettlerkampsweg (Elisabethgehölz - Sievekingsallee)		PK 41	pruefen			
 Mewesweg		PK 47	okay		53.5346882	9.8767956
 Milchstraße		PK 17	okay		53.570792	9.9988043
 Mohlenhofstraße		PK 14	okay		53.5496914	10.0013174
@@ -239,10 +196,7 @@ Möllers Kamp		PK 43	okay		53.4865207	10.2220819
 Mönkedamm		PK 14	okay		53.5492327	9.9891392
 Morewoodstraße		PK 37	okay		53.5744374	10.0797009
 Mörkenstraße		PK 21	okay		53.549915	9.9416356
-Mozartstraße (Humboldtstraße – Herderstraße)		PK 31	pruefen			
-Mühlenberger Weg (Blankeneser Bahnofstr. bis   Elbchaussee)		PK 26	pruefen			
 Mülhäuser Straße		PK 37	okay		53.5838424	10.0642159
-Neckerstücken		PK 47	pruefen			
 Neß		PK 14	okay		53.5485872	9.9932204
 Neue Burg		PK 14	okay		53.5477411	9.9918048
 Neuer Wall		PK 14	okay		53.5505971	9.9879896
@@ -254,7 +208,6 @@ Nüßlerkamp		PK 36	okay		53.622625	10.0839287
 Obenburger Querweg		PK 47	okay		53.4870905	9.9376586
 Oberschleems		PK 42	okay		53.5372643	10.1186991
 Oberschlesische Straße		PK 37	okay		53.5825775	10.0651063
-Ohlendorfstraße		PK 41	pruefen			
 Ohlstücken		PK 43	okay		53.4948677	10.2050669
 Öjendorfer Weg		PK 42	okay		53.5393971	10.1098038
 Op de Wisch		PK 47	okay		53.4719628	9.8214465
@@ -262,14 +215,7 @@ Orionweg		PK 35	okay		53.6309176	10.0605286
 Otterhaken		PK 44	okay		53.5172016	9.9845553
 Overbeckstraße		PK 31	okay		53.5697588	10.0196676
 Paeplowweg		PK 23	okay		53.6158106	9.9944344
-Pagenfelder Platz Nord		PK 42	pruefen			
-Pagenfelder Platz Süd		PK 42	pruefen			
-Papenhuder Straße (Armgartstraße-Graumannsweg)		PK 31	pruefen			
-Papenhuder Straße (Süd)		PK 31	pruefen			
-Pasmannstraße (evtl. baustellenbedingt)		PK 14	pruefen			
 Pelzerstraße		PK 14	okay		53.5497231	9.9948827
-Perthesweg (Griesstraße – Quellenweg)		PK 41	pruefen			
-Perthesweg (Quellenweg – Hanfftsweg)		PK 41	pruefen			
 Pestalozzistraße		PK 33	okay		53.5871264	10.0484918
 Peter-Marquard-Straße		PK 31	okay		53.5828418	10.0116113
 Pillauer Straße		PK 37	okay		53.5936241	10.0837497
@@ -280,7 +226,6 @@ Pöseldorfer Weg		PK 17	okay		53.5740434	9.998227
 Poststraße		PK 14	okay		53.5533775	9.9891213
 Präsident-Krahn-Straße		PK 21	okay		53.5540957	9.9361594
 Preystraße		PK 33	okay		53.5822091	10.012174
-Probst-Paulsen-Straße		PK 26	pruefen			
 Pumpen		PK 14	okay		53.5481204	10.0026659
 Puvogelstraße		PK 37	okay		53.5768288	10.0853786
 Quarree		PK 37	okay		53.5725314	10.0642996
@@ -289,7 +234,6 @@ Rambachstraße		PK 14	okay		53.5446051	9.9762862
 Rathausstraße		PK 14	okay		53.550008	9.9946741
 Ratsmühlendamm		PK 34	okay		53.6267507	10.0191733
 Reekamp		PK 34	okay		53.6511576	10.0107494
-Regerstraße (südl. Bahrenfelder Chaussee)		PK 25	pruefen			
 Rehhoffstraße		PK 14	okay		53.5470844	9.9814116
 Reimarusstraße		PK 14	okay		53.5449732	9.9752561
 Reinbeker Weg		PK 43	okay		53.4920166	10.2247915
@@ -317,26 +261,19 @@ Schulenbrooksweg		PK 43	okay		53.48643	10.2208433
 Schurzallee-Nord		PK 41	okay		53.5502018	10.0674213
 Schwansenstraße		PK 37	okay		53.5801966	10.0625274
 Schwenckestraße		PK 23	okay		53.5799205	9.9510294
-Sengelmannstraße (Hs. Nr. 181 - Suhrenkamp)		PK 34	pruefen			
 Sichter		PK 43	okay		53.4890182	10.2198536
-Silcherstraße (Reineckestr. - Bahrenfelder Ch.)		PK 25	pruefen			
 Simon-von-Utrecht-Straße		PK 15	okay		53.5509724	9.9683859
 Smidtstraße		PK 41	okay		53.5637785	10.0610336
 Spielbudenplatz		PK 15	okay		53.5493715	9.9637437
 Spökelbarg		PK 42	okay		53.5372444	10.1111584
 Spökelbargring		PK 42	okay		53.5367434	10.1102793
 Stahltwiete		PK 25	okay		53.5622966	9.9258614
-Stamannstrasse		PK 33	pruefen			
-Stapelholmer Staße		PK 37	pruefen			
-Steendieck		PK 47	pruefen			
 Steinbeker Markt		PK 42	okay		53.5312804	10.1261804
-Steindamm (ab Adenauerallee)		PK 11	pruefen			
 Steintorweg		PK 11	okay		53.5531208	10.0096131
 Straßburger Stieg		PK 37	okay		53.5837294	10.0716149
 Straußstraße		PK 25	okay		53.5662404	9.9079347
 Stubbenhuk		PK 14	okay		53.5452316	9.9809527
 Talstraße		PK 15	okay		53.6232954	10.0344257
-Tangstedter Landstraße (kleine)		PK 34	pruefen			
 Teilfeld		PK 14	okay		53.5483493	9.9814075
 Tierparkallee		PK 27	okay		53.5957382	9.9339563
 Trelder Weg		PK 46	okay		53.4395425	9.9899158
@@ -344,7 +281,6 @@ Tunnelstraße		PK 2	okay		53.5289023	10.0189118
 Uckermarkweg		PK 34	okay		53.6500733	9.9935478
 Uhlandstraße		PK 31	okay		53.5653625	10.0284781
 Uhlenbüttler Kamp		PK 35	okay		53.6414611	10.0493763
-Uhlenhorster Weg (Schwanenwik bis Hofweg)		PK 31	pruefen			
 Urnenfeld		PK 25	okay		53.5705321	9.8778566
 Venusberg		PK 14	okay		53.5471473	9.9753398
 Vinhagenweg		PK 43	okay		53.4884138	10.2146203
@@ -356,15 +292,11 @@ Von-Heß-Weg		PK 41	okay		53.5567063	10.0649857
 Vorwerkstraße		PK 16	okay		53.5597731	9.9712642
 Wachsbleiche		PK 43	okay		53.485864	10.2076719
 Wackerhagen		PK 41	okay		53.5515305	10.0602388
-Wählingsallee (Richtung Westen)		PK 54	pruefen			
-Wählingsweg (teilw. in Richtung Norden)		PK 54	pruefen			
 Waitzstraße		PK 25	okay		53.5597589	9.8759021
 Waldreiterring		PK 35	okay		53.6659451	10.1500559
-Waldvogtstr.		PK 35	pruefen			
 Wandsbeker Königstraße		PK 37	okay		53.5737764	10.0632185
 Washingtonring		PK 42	okay		53.5450613	10.0947509
 Wasserstieg		PK 37	okay		53.5779851	10.0664749
-Weg beim Jäger (Nebenweg ca. 200 m westl. von Am   Jägerholz)		PK 23	pruefen			
 Westphalensweg		PK 11	okay		53.5540693	10.0244729
 Wetteringe		PK 43	okay		53.4856695	10.2088604
 Wexstraße		PK 14	okay		53.5519103	9.9852938
@@ -377,11 +309,8 @@ Woermannsweg		PK 34	okay		53.624357	10.0281397
 Woldsenweg		PK 23	okay		53.5877405	9.9870298
 Wolfshagen		PK 41	okay		53.5600287	10.0486828
 Wördenmoorweg		PK 34	okay		53.6550177	10.0223757
-Wörmannsweg		PK 34	pruefen			
-Wrangelstraße (Gärtnerstr. - Heckscherstr.)		PK 23	pruefen			
 Wriedestraße		PK 47	okay		53.5352456	9.8780111
 Wulffsblöcken		PK 34	okay		53.6572152	10.0114341
 Zeißstraße		PK 21	okay		53.5548489	9.9313339
-Zeppelinstraße (Nebenfahrbahn)		PK 34	pruefen			
 Zeughausmarkt		PK 14	okay		53.5493499	9.9742083
 Zirkusweg		PK 15	okay		53.5497272	9.9690088
